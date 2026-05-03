@@ -11,11 +11,11 @@
   },
   {
     "url": "https://www.youtube.com/watch?v=C4thl7r2MB4",
-    "status": "pending",
+    "status": "failed",
     "title": null,
     "release_tag": null,
     "release_url": null,
-    "error": "utube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing\nERROR: [youtube] C4thl7r2MB4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+    "error": "NG: [youtube] C4thl7r2MB4: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS\nWARNING: Only images are available for download. use --list-formats to see them\nERROR: [youtube] C4thl7r2MB4: Requested format is not available. Use --list-formats for a list of available formats",
     "added_at": "2026-05-03",
     "downloaded_at": null
   }
